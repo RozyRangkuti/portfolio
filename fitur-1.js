@@ -1,1 +1,1 @@
-console.log("fitur-1")
+console.log("fitur-1");
